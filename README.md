@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m Alok Rai- Tech Enthusiast<br>And Love Turning Ideas Into ML-Powered Solutions<br>
+
+Hi, I'm Alok Rai 👋
+
+A passionate and results-driven **Machine Learning enthusiast** from Jabalpur. My journey in tech is fueled by a fascination for turning complex data into actionable insights and intelligent applications.
+
+- 🔭 I’m currently working on models for the **[NeurIPS - Open Polymer Prediction 2025 Kaggle Competition]**.
+- 🌱 I’m sharpening my skills in **[MLOps AND LLMs]**.
+- 👯 I’m looking to collaborate on **open-source projects related to data science and predictive analytics**.
+- 📫 How to reach me: You can connect with me on **[LinkedIn](https://linkedin.com/in/alok-rai158)**.
+- ⚡ Fun Fact: My code only compiles after I've had at least two cups of chai.
 
 
 ## 🌐 Socials:
