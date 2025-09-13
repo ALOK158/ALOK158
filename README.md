@@ -11,6 +11,12 @@ A passionate and results-driven **Machine Learning enthusiast** from Jabalpur. M
 - ⚡ Fun Fact: My code only compiles after I've had at least two cups of chai.
 
 
+# 🏆 Achievements
+
+- 🏅 Secured **AIR 7** in **ML Quest** organized by IEEE-GHRCE, Nagpur.
+- 🏅 Reached the **Semi-finalist** stage in **Flipkart GRiD 2025**.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-rai158) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/AlokRai158/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/alok158) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aloksomrai158@gmail.com)
 
