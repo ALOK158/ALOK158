@@ -4,7 +4,7 @@ Hi, I'm Alok Rai 👋
 
 A passionate and results-driven **Machine Learning enthusiast** from Jabalpur. My journey in tech is fueled by a fascination for turning complex data into actionable insights and intelligent applications.
 
-- 🔭 I’m currently working on models for the **[NeurIPS - Open Polymer Prediction 2025 Kaggle Competition]**.
+
 - 🌱 I’m sharpening my skills in **[MLOps AND LLMs]**.
 - 👯 I’m looking to collaborate on **open-source projects related to data science and predictive analytics**.
 - 📫 How to reach me: You can connect with me on **[LinkedIn](https://linkedin.com/in/alok-rai158)**.
@@ -14,6 +14,7 @@ A passionate and results-driven **Machine Learning enthusiast** from Jabalpur. M
 # 🏆 Achievements
 
 - 🏅 Secured **AIR 7** in **ML Quest** organized by IEEE-GHRCE, Nagpur.
+- 🏅 Achieved Global rank **1603** in **NeurIPS-Polymer Prediction** competition on **Kaggle**.
 - 🏅 Reached the **Semi-finalist** stage in **Flipkart GRiD 2025**.
 
 
