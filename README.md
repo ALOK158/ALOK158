@@ -15,7 +15,7 @@ My journey in tech is fueled by a fascination for turning complex data into acti
 ### 🏆 Achievements
 - 🏅 Global Rank **11** Construction Cost Prediction (Solafune)
 - 🏅 All India Rank **7** ML Quest, IEEE-GHRCE Nagpur
-- 🏅 Global Rank **1603** NeurIPS Polymer Prediction (Kaggle)
+- 🏅 Global Rank **94** Solar_Filament_Segmentation(Kaggle)
 - 🏅 Semi-finalist Flipkart GRiD 2025
 
 ### 🌐 Connect with Me
